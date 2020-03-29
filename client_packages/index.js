@@ -1,0 +1,2 @@
+require('./alarm/alarm.js');
+
